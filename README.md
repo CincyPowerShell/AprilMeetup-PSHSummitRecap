@@ -23,6 +23,7 @@ We had a great turnout and engaged audience for our April meeting. Below is a qu
     -   PSDeploy is another build automation tool to help you move one step closer to a Continuous Deployment model. https://github.com/RamblingCookieMonster/PSDeploy
     -   psake is also another viable option for automating your build pipeline. https://github.com/psake/psake
     -   Operation Validation Framework is a set of tools for validating the operations of a system. This allows you to execute Pester tests that you have created to validate operations of an entire system (rather than just features). https://github.com/PowerShell/Operation-Validation-Framework
+    -   This is a great follow up to the release pipeline article https://devblackops.io/building-a-simple-release-pipeline-in-powershell-using-psake-pester-and-psdeploy/ 
   
 ## Other resources from our discussion
 -   June Blender's "A Class of Wine" talk from the Virtual PowerShell User Group - https://www.crowdcast.io/e/vipug-2015-03/register
